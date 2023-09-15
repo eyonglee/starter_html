@@ -1,0 +1,38 @@
+body {
+    background-color: #bfe2f5;
+    color: #054e6e;
+}
+
+h1 {
+    font-size: 70px;
+    font-family: Verdana;
+    text-align: center;
+}
+
+h2 {
+    font-size: 50px;
+    font-family: Verdana;
+    color: #022b4d;
+}
+
+h3 {
+    font-size: 25px;
+    font-family: Verdana;
+    color: #022b4d;
+}
+
+p {
+    line-height: 1.5;
+}
+
+img, video {
+    border: solid 5px #054e6e;
+    padding: 10px;
+    margin: 20px;
+    border-top-right-radius: 30px;
+}
+
+ul {
+    display: inline-block;
+    margin-left: 50px;
+}
