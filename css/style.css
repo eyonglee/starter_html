@@ -68,7 +68,16 @@ ul {
     top: -40px
 }
 
-  .skip a:focus {
+.skip a:focus {
     position: absolute;
     top: 20px
+}
+
+.info {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+
+.info .pic {
+    grid-row: 1/3;
 }
